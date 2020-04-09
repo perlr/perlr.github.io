@@ -6,7 +6,7 @@ title: About
 ## Who am I
 
 Test
-![](RicardoPerl.jpg =250x)
+![Me](RicardoPerl.jpg){:height="36px" width="36px"}
 
 # Projects
 
