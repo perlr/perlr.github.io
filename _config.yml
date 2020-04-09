@@ -1,1 +1,11 @@
+# basic options
+title: Your awesome title
+author: Ricardo Perl
+email: dr.ricardo.perl@gmail.com
+description: A wonderful site
+twitter_username: RicardoPerl
+github_username:  perlr
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
