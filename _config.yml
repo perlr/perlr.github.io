@@ -9,4 +9,4 @@ github_username:  perlr
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
