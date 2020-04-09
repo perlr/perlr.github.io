@@ -7,6 +7,7 @@ title: About
 
 Test
 
+![Me](RicardoPerl.jpg){:class="img-responsive"}
 
 # Projects
 
