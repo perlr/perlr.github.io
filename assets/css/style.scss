@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 .site-title::before {
-content: url("RicardoPerl.jpg");
+content: url("/RicardoPerl.jpg");
 display: inline-block;
 position: relative;
 width: 32px;
