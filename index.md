@@ -6,6 +6,7 @@ title: About
 ## Who am I
 
 Test
+![alt text](RicardoPerl.jpg "Title")
 
 ![Me](RicardoPerl.jpg){:class="img-responsive"}
 
