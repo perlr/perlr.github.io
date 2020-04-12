@@ -2,11 +2,4 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
-.site-title::before {
-content: url("RicardoPerl.jpg");
-display: inline-block;
-position: relative;
-width: 5px;
-top: 10px;
-}
+@import "{{ site.theme }}";

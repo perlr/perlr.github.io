@@ -1,12 +1,13 @@
 # basic options
 title: Ricardo Perl
 # author: Ricardo Perl
-logo: RicardoPerl.jpg
+#logo: /assets/RicardoPerl.png
 email: dr.ricardo.perl@gmail.com
 description: My personal website
 twitter_username: RicardoPerl
-github_username:  perlr
-
+#github_username:  perlr
+linkedin_username: ricardo-perl
+#ricardo-perl-8229a535
 # Build settings
 markdown: kramdown
 theme: minima
