@@ -46,7 +46,7 @@ Solving Laplace-Beltrami and bi-Laplacian with given right hand side on differen
   <img src="/assets/subdivBall1_Laplace.png" width="500">
   <img src="/assets/subdivBall2_Laplace.png" width="500"> 
   <img src="/assets/subdivTorus_Laplace.png" width="500"> 
-  <img src="/assets/subdivHands.png" width="500">
+  <img src="/assets/SubdivHands.png" width="500">
   <br/>
   Left to right: Smooth surface with curved elements; Given right hand side; Solution of Lapace-Beltrami; Solution of bi-Laplcian.
 </p>
