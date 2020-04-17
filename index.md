@@ -118,7 +118,7 @@ We consider the space of shells, where each shell is a point in space. Applying 
 <p align="center">
   <img src="/assets/ParallelTransport_Cat_Lion.png" width="700"> 
   <br/>
-  By using the concepts of discrete geodesics and geometric shooting we can tranfer the motion of cat to a lion.
+  By combining the concepts of discrete geodesics and geometric shooting we can tranfer the motion of cat to a lion.
 </p>
 
 #### Bezier curves in subdivion shape space
