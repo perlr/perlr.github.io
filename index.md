@@ -16,11 +16,11 @@ After finishing my PhD I worked for 4 years at [Continental](https://www.contine
   <img src="/assets/subdivHands_Eigenmodes.png" height="225"> 
 </p>
 
-My background and interests:
-  - meshing (esp. quad and hex meshing), finite elements, iso-geometric analysis, computer graphics, computational mechanics
-  - partial differential equations, calculus of variations, numerical methods, high-performance computing, nonlinear problems
-  - differential geometry, geometry processing, Bézier curves, subdivision curves and surfaces, NURBS
-  - software engineering, C++, Qt5/Qml, UX/UI, Swift, OpenGL, Metal    
+**My background and interests:**
+  - Meshing (esp. quad and hex meshing), finite elements, iso-geometric analysis, computer graphics, computational mechanics
+  - Partial differential equations, calculus of variations, numerical methods, high-performance computing, nonlinear problems
+  - Differential geometry, geometry processing, Bézier curves, subdivision curves and surfaces, NURBS
+  - Software engineering, C++, Qt5/Qml, UX/UI, Swift, OpenGL, Metal    
   - Git, Mercurial, Blender, Paraview, VisualStudio, CMake, QtCreator
 
 <br/>
